@@ -5,8 +5,8 @@
     <div class="relative rounded-lg">
       <div class="peer cursor-pointer">
         <img
-          src="/src/assets/image-equilibrium.jpg"
-          alt=""
+          src="assets/image-equilibrium.jpg"
+          alt="equilibrium"
           class="rounded-lg"
         />
       </div>
@@ -14,8 +14,8 @@
         class="absolute w-full h-full inset-0 rounded-lg [background:rgba(0,255,247,0.5)] hidden peer-hover:block"
       >
         <img
-          src="/src/assets/icon-view.svg"
-          alt=""
+          src="assets/icon-view.svg"
+          alt="eye icon"
           class="relative top-[43%] left-[43%]"
         />
       </div>
@@ -28,19 +28,23 @@
     <p class="text-xl">Our quilibrium collection promotes balance and calm.</p>
     <div class="flex justify-between items-center">
       <div class="flex gap-2 my-5">
-        <img src="/src/assets/icon-ethereum.svg" alt="" class="self-center" />
+        <img
+          src="assets/icon-ethereum.svg"
+          alt="ethereum icon"
+          class="self-center"
+        />
         <p class="text-cstm-primary-cyan">0.041 ETH</p>
       </div>
       <div class="flex gap-2">
-        <img src="/src/assets/icon-clock.svg" alt="" class="self-center" />
+        <img src="assets/icon-clock.svg" alt="clock icon" class="self-center" />
         <p>3 days left</p>
       </div>
     </div>
     <div class="w-full h-[1px] bg-cstm-neutral-dark-blue-line-bg mb-5" />
     <div class="flex items-center gap-4">
       <img
-        src="/src/assets/image-avatar.png"
-        alt=""
+        src="assets/image-avatar.png"
+        alt="person avatar"
         width="40px"
         height="40px"
         class="border-2 border-white rounded-full"
